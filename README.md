@@ -4,6 +4,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=IT20159030 alt=IT20159030 /> </p>
 
-![Sachini's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20159030&hide=contribs,prs)
+![Sachini's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20159030&,prs,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT20159030&langs_count=8)](https://github.com/IT20159030/github-readme-stats)
 
