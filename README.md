@@ -5,16 +5,5 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=IT20159030 alt=IT20159030 /> </p>
 
 ![Sachini's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20159030&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT20159030&langs_count=8)](https://github.com/IT20159030/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT20159030)](https://github.com/IT20159030/github-readme-stats)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=IT20159030&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=IT20159030&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=IT20159030&show_icons=true" />
-</picture>
